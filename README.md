@@ -4,7 +4,7 @@
 - **Address:** 5/125 A Kaaratty Village, Kalhatty Post, Ooty, The Nilgiris, 643005
 - **Phone:** +91 7305115372
 - **Email:** [mashakronaldo07@gmail.com](mailto:mashakronaldo07@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mashak-j](https://linkedin.com/in/mashak-j)
+- **LinkedIn:** https://www.linkedin.com/in/mashak-jagadeesan/
 
 ---
 
