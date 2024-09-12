@@ -11,20 +11,8 @@
 ## Objective
 
 A highly motivated and results-driven Data Analyst with over 3 years of experience in analyzing and interpreting complex data sets to drive business insights and decision-making. Proficient in data manipulation, statistical analysis, and data visualization. Possesses strong problem-solving and communication skills, with a background in self-storage processes. Seeking to leverage data-driven insights to optimize operations and drive business growth.
-
 ---
 
-## Education
-
-**Karunya Institute of Technology and Science**  
-_B.Tech in Mechanical Engineering_  
-2016 – 2020
-
-**Vidya Vikas Matriculation Higher Secondary School**  
-_Higher Secondary Education_  
-2014 – 2016
-
----
 
 ## Skills
 
@@ -76,3 +64,14 @@ _February 2023 – Present_
 
 - Analyzed data to provide insights for clients like Axis Room and Ratepink.
 - Developed data models to track and predict event outcomes, improving client strategies.
+
+-## Education
+
+**Karunya Institute of Technology and Science**  
+_B.Tech in Mechanical Engineering_  
+2016 – 2020
+
+
+
+---
+
